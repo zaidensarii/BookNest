@@ -1,0 +1,27 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# SQLite database
+*.db
+*.sqlite3
+
+# Environment variables
+.env
+.env.*
+
+# IDE / editor
+.vscode/
+.idea/
+*.DS_Store
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
